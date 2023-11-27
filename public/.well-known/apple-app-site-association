@@ -1,0 +1,17 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "A8MT3D483B.com.snowflair.ios" ],
+             "components": [
+               
+               {
+                  "/": "/redirect2app/*",
+                  "comment": "Matches any URL with a path that starts with /redirect2app/."
+               },
+               
+             ]
+           }
+       ]
+   }
+}

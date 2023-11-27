@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.snowflair.app",
+        "sha256_cert_fingerprints":
+          ["1A:57:42:A4:98:17:6D:1D:59:77:74:87:65:45:85:06:1E:ED:AC:B4:2C:CC:A3:E2:2E:6E:98:D9:10:B0:45:FC","6A:73:17:96:FE:61:F6:89:74:27:21:DD:34:55:39:70:E4:81:BA:90:F1:5D:31:76:F3:1A:2B:B8:CE:C7:E3:A0"]
+      }
+    }
+  ]
